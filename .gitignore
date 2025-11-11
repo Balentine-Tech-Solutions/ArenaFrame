@@ -1,0 +1,51 @@
+# UEFN/Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Compiled files
+*.uasset
+*.umap
+*.upk
+*.udk
+
+# Audio files (large)
+*.wav
+*.mp3
+*.ogg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+

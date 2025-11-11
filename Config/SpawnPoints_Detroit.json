@@ -1,0 +1,177 @@
+{
+  "arenaName": "ArenaFrame Detroit",
+  "version": "1.0.0",
+  "description": "Detroit street-inspired spawn zones for ArenaFrame PvP arena",
+  "spawnZones": [
+    {
+      "id": "zone_01",
+      "name": "Fenkell",
+      "displayName": "Fenkell Avenue",
+      "location": {
+        "x": -5000.0,
+        "y": 5000.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 45.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "northwest",
+      "detroitReference": "Major east-west thoroughfare in northwest Detroit"
+    },
+    {
+      "id": "zone_02",
+      "name": "McGraw",
+      "displayName": "McGraw Street",
+      "location": {
+        "x": 0.0,
+        "y": 7000.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 90.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "north",
+      "detroitReference": "Historic street in southwest Detroit near Mexicantown"
+    },
+    {
+      "id": "zone_03",
+      "name": "GrandRiver",
+      "displayName": "Grand River Avenue",
+      "location": {
+        "x": 5000.0,
+        "y": 5000.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 135.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "northeast",
+      "detroitReference": "One of Detroit's five major avenues radiating from downtown"
+    },
+    {
+      "id": "zone_04",
+      "name": "Gratiot",
+      "displayName": "Gratiot Avenue",
+      "location": {
+        "x": 7000.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 180.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "east",
+      "detroitReference": "Major diagonal avenue connecting downtown to the east side"
+    },
+    {
+      "id": "zone_05",
+      "name": "Mack",
+      "displayName": "Mack Avenue",
+      "location": {
+        "x": 5000.0,
+        "y": -5000.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 225.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "southeast",
+      "detroitReference": "Historic avenue running through Detroit's east side neighborhoods"
+    },
+    {
+      "id": "zone_06",
+      "name": "JoyRd",
+      "displayName": "Joy Road",
+      "location": {
+        "x": 0.0,
+        "y": -7000.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 270.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "south",
+      "detroitReference": "Major east-west street in southwest Detroit"
+    },
+    {
+      "id": "zone_07",
+      "name": "Hoover",
+      "displayName": "Hoover Street",
+      "location": {
+        "x": -5000.0,
+        "y": -5000.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 315.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "southwest",
+      "detroitReference": "North-south street on Detroit's east side"
+    },
+    {
+      "id": "zone_08",
+      "name": "Schoenherr",
+      "displayName": "Schoenherr Road",
+      "location": {
+        "x": -7000.0,
+        "y": 0.0,
+        "z": 100.0
+      },
+      "rotation": {
+        "pitch": 0.0,
+        "yaw": 0.0,
+        "roll": 0.0
+      },
+      "radius": 300.0,
+      "capacity": 2,
+      "theme": "west",
+      "detroitReference": "Major north-south road on Detroit's far east side"
+    }
+  ],
+  "centerArena": {
+    "name": "Downtown Core",
+    "location": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "radius": 2000.0,
+    "description": "Central combat zone representing Detroit's downtown core"
+  },
+  "metadata": {
+    "author": "Balentine Tech Solutions",
+    "created": "2025-11-11",
+    "detroitInspiration": "Street names honor Detroit's iconic thoroughfares and neighborhoods",
+    "geometricLayout": "Octagonal spawn pattern with crushed diamond floor aesthetic",
+    "culturalNotes": "Each zone represents a different Detroit neighborhood character"
+  }
+}
+
